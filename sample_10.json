@@ -1,0 +1,250 @@
+[
+  {
+    "order_id": 1008,
+    "customer": "Rabia N.",
+    "city": "Lahore",
+    "status": "delivered",
+    "payment": "COD",
+    "amount_pkr": 4290,
+    "placed_on": "2026-10-04",
+    "delivered_on": "2026-10-06",
+    "courier": "TCS",
+    "tracking_no": "TP-701008",
+    "refunded": false,
+    "items": [
+      {
+        "sku": "UNS-031",
+        "name": "Unstitched khaddar, 4 m",
+        "qty": 1,
+        "price_pkr": 4290,
+        "fabric": "unstitched"
+      }
+    ]
+  },
+  {
+    "order_id": 1014,
+    "customer": "Saad R.",
+    "city": "Lahore",
+    "status": "delivered",
+    "payment": "COD",
+    "amount_pkr": 4290,
+    "placed_on": "2026-10-02",
+    "delivered_on": "2026-10-05",
+    "courier": "PostEx",
+    "tracking_no": "SD-701014",
+    "refunded": false,
+    "items": [
+      {
+        "sku": "UNS-031",
+        "name": "Unstitched khaddar, 4 m",
+        "qty": 1,
+        "price_pkr": 4290,
+        "fabric": "unstitched"
+      }
+    ]
+  },
+  {
+    "order_id": 1022,
+    "customer": "Sana N.",
+    "city": "Lahore",
+    "status": "delivered",
+    "payment": "card",
+    "amount_pkr": 12280,
+    "placed_on": "2026-10-02",
+    "delivered_on": "2026-10-04",
+    "courier": "TCS",
+    "tracking_no": "TP-701022",
+    "refunded": false,
+    "items": [
+      {
+        "sku": "UNS-031",
+        "name": "Unstitched khaddar, 4 m",
+        "qty": 1,
+        "price_pkr": 4290,
+        "fabric": "unstitched"
+      },
+      {
+        "sku": "ABY-002",
+        "name": "Abaya",
+        "qty": 1,
+        "price_pkr": 7990,
+        "fabric": "stitched"
+      }
+    ]
+  },
+  {
+    "order_id": 1028,
+    "customer": "Hira R.",
+    "city": "Lahore",
+    "status": "delivered",
+    "payment": "COD",
+    "amount_pkr": 1890,
+    "placed_on": "2026-10-04",
+    "delivered_on": "2026-10-08",
+    "courier": "Leopards",
+    "tracking_no": "RG-701028",
+    "refunded": false,
+    "items": [
+      {
+        "sku": "TRS-010",
+        "name": "Cotton trousers",
+        "qty": 1,
+        "price_pkr": 1890,
+        "fabric": "stitched"
+      }
+    ]
+  },
+  {
+    "order_id": 1039,
+    "customer": "Fatima A.",
+    "city": "Multan",
+    "status": "delivered",
+    "payment": "COD",
+    "amount_pkr": 12280,
+    "placed_on": "2026-09-28",
+    "delivered_on": "2026-10-03",
+    "courier": "Leopards",
+    "tracking_no": "RG-701039",
+    "refunded": false,
+    "items": [
+      {
+        "sku": "ABY-002",
+        "name": "Abaya",
+        "qty": 1,
+        "price_pkr": 7990,
+        "fabric": "stitched"
+      },
+      {
+        "sku": "UNS-031",
+        "name": "Unstitched khaddar, 4 m",
+        "qty": 1,
+        "price_pkr": 4290,
+        "fabric": "unstitched"
+      }
+    ]
+  },
+  {
+    "order_id": 1040,
+    "customer": "Anam Q.",
+    "city": "Karachi",
+    "status": "delivered",
+    "payment": "COD",
+    "amount_pkr": 1990,
+    "placed_on": "2026-10-02",
+    "delivered_on": "2026-10-06",
+    "courier": "PostEx",
+    "tracking_no": "SD-701040",
+    "refunded": false,
+    "items": [
+      {
+        "sku": "DPT-003",
+        "name": "Chiffon dupatta",
+        "qty": 1,
+        "price_pkr": 1990,
+        "fabric": "stitched"
+      }
+    ]
+  },
+  {
+    "order_id": 1075,
+    "customer": "Komal R.",
+    "city": "Lahore",
+    "status": "delivered",
+    "payment": "bank transfer",
+    "amount_pkr": 1890,
+    "placed_on": "2026-10-02",
+    "delivered_on": "2026-10-06",
+    "courier": "TCS",
+    "tracking_no": "TP-701075",
+    "refunded": false,
+    "items": [
+      {
+        "sku": "TRS-010",
+        "name": "Cotton trousers",
+        "qty": 1,
+        "price_pkr": 1890,
+        "fabric": "stitched"
+      }
+    ]
+  },
+  {
+    "order_id": 1077,
+    "customer": "Komal S.",
+    "city": "Faisalabad",
+    "status": "delivered",
+    "payment": "card",
+    "amount_pkr": 12280,
+    "placed_on": "2026-10-04",
+    "delivered_on": "2026-10-06",
+    "courier": "Leopards",
+    "tracking_no": "RG-701077",
+    "refunded": false,
+    "items": [
+      {
+        "sku": "UNS-031",
+        "name": "Unstitched khaddar, 4 m",
+        "qty": 1,
+        "price_pkr": 4290,
+        "fabric": "unstitched"
+      },
+      {
+        "sku": "ABY-002",
+        "name": "Abaya",
+        "qty": 1,
+        "price_pkr": 7990,
+        "fabric": "stitched"
+      }
+    ]
+  },
+  {
+    "order_id": 1078,
+    "customer": "Mahnoor K.",
+    "city": "Lahore",
+    "status": "delivered",
+    "payment": "card",
+    "amount_pkr": 11480,
+    "placed_on": "2026-09-28",
+    "delivered_on": "2026-10-03",
+    "courier": "PostEx",
+    "tracking_no": "SD-701078",
+    "refunded": false,
+    "items": [
+      {
+        "sku": "LWN-014",
+        "name": "Lawn 3-piece suit",
+        "qty": 1,
+        "price_pkr": 6490,
+        "fabric": "stitched"
+      },
+      {
+        "sku": "KRT-021",
+        "name": "Embroidered kurta",
+        "qty": 1,
+        "price_pkr": 4990,
+        "fabric": "stitched"
+      }
+    ]
+  },
+  {
+    "order_id": 1001,
+    "customer": "Maryam R.",
+    "city": "Lahore",
+    "status": "shipped",
+    "payment": "COD",
+    "amount_pkr": 7990,
+    "placed_on": "2026-10-09",
+    "delivered_on": null,
+    "courier": "Leopards",
+    "tracking_no": "RG-701001",
+    "refunded": false,
+    "items": [
+      {
+        "sku": "ABY-002",
+        "name": "Abaya",
+        "qty": 1,
+        "price_pkr": 7990,
+        "fabric": "stitched"
+      }
+    ]
+  }
+]
